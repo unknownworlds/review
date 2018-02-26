@@ -5,11 +5,7 @@ author: hugh@unknownworlds.com
 """
 import datetime
 import sys
-import json
 import csv
-from urllib.request import Request
-from urllib.request import urlopen
-from urllib.error import HTTPError
 from source.review import Review
 from source.batch import Batch
 from source.review import Review
