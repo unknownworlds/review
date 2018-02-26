@@ -2,7 +2,7 @@
 
 Review is a Python3 command line tool that dumps Steam reviews to a comma-separated-value file.
 
-##Usage
+## Usage
 
 Run review.py, specifying values for at least the --app and --file flags.
 
